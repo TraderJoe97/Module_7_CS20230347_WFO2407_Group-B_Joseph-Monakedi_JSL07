@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function () {
       <p>has almost completed the</p>
       <h4>${courseName}</h4>
       <p>${personalMessage}</p>
-
+      <img src='logo.png'>
     `;
     
       //  Display the modal
